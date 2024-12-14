@@ -1,0 +1,30 @@
+h1  {font-family:'Monster Friend Back' ;
+    text-align:center; 
+    font-size:25px; 
+    color:red }
+#Facultad{font-size: 15px;
+    text-decoration: underline;
+    text-align: center}
+p, ul { color:rgb(255, 255, 255);
+    margin-left: 5%; 
+    font-size: 25px; 
+    font-family: 'Monster Friend Back'; }
+body{background-image: url(background_undetale.webp);
+    background-repeat: no-repeat;
+    background-size: cover;}
+#Presentacion{background-color: rgb(0, 0, 0) ;
+    border-style: solid;
+    border-color:white;
+    border-width: 3px;
+    height: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;}
+.indice{background-color: rgb(0, 0, 0) ;
+    border-style: solid;
+    border-color:white;
+    border-width: 3px;
+    height: 35%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;}

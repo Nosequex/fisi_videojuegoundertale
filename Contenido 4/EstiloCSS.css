@@ -1,0 +1,21 @@
+    h1{font-size:30px;font-family:'Monster Friend Back'; text-decoration:underline;
+        text-decoration-style: double; color:rgb(245, 42, 42) }
+    h2{font-size:25px;margin-left:5%;font-family:'Monster Friend Back'; text-decoration:underline;
+        color:darkviolet }
+    p { font-size:20px;color: white;margin-left: 10%;font-family:'Comic Sans MS';margin-right: 30%;}
+    #INDICE{font-size: 20px;color:white;font-family: 'Monster Friend Back';}
+    .indice{background-color: rgb(0, 0, 0);
+        border-style: solid;
+        border-color:white;
+        border-width: 3px;
+        height: 58%;
+        margin-left: 5%;
+        margin-right: 10%}
+    .Siguiente_y_anterior{font-size: 20px;
+        font-family:'Monster Friend Back';
+        color: red;
+        margin-left: 3%;
+        margin-right: 3%;}
+    .flotante { display:sroll;position: fixed;
+            bottom:0px;right: 0px;}
+    body{background-image: url(True_lab.webp); background-repeat: no-repeat; background-size: cover;}
